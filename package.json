@@ -1,0 +1,17 @@
+{
+	"name": "created-stratum-example-javascript",
+	"description": "Example repository created from create-stratum-example's --preset javascript. 💕",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bingo-examples/created-stratum-example-javascript.git"
+	},
+	"main": "src/index.js",
+	"type": "module",
+	"devDependencies": {
+		"prettier": "^3.5.3"
+	},
+	"scripts": {
+		"format": "prettier ."
+	}
+}
